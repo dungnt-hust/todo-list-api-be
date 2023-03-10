@@ -2,6 +2,7 @@
   "name": "todo-list-api-be",
   "version": "1.0.0",
   "description": "",
+  "start": "nodemon server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
